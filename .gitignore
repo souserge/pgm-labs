@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Data files
-src/lab1/*.gz
+*.gz
+*.pdf
